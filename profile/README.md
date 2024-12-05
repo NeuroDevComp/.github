@@ -1,3 +1,3 @@
-## Neurodevelopment and Comparative Cognition 👋
+## Neurodevelopment and Comparative Cognition
 
- Git repositories for the Neurodevelopment and Comparative Cognition research group. 
+The Neurodevelopment and Comparative Cognition (NeuroDevComp) research group at the Institut de Recerca Sant Joan de Déu (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neurodevelopmental processes across species. By combining comparative and developmental approaches, the group investigates how early-life experiences shape brain development and cognitive functions. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform language acquisition and language evolution. This GitHub organization hosts the code repositories of the research projects and software developed by the members of the NeuroDevComp group.
